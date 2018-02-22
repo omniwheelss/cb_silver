@@ -1,0 +1,9 @@
+17-09-2017 23:15:00 |user login|login|::1||emailid/password wrong|#
+17-09-2017 23:15:04 |user login|login|::1||emailid/password wrong|#
+17-09-2017 23:15:37 |user login|login|::1|1|successfully logged|#
+17-09-2017 23:20:11 |list data|list_user|1|Where date_stamp between '2017-09-17 00:00:00' and '2017-09-17 23:19:00'|listed successfully|#
+17-09-2017 23:40:01 |user login|::1|1|successfully logged out|#
+17-09-2017 23:40:09 |user login|login|::1||emailid/password wrong|#
+17-09-2017 23:40:14 |user login|login|::1||emailid/password wrong|#
+17-09-2017 23:40:36 |user login|login|::1|1|successfully logged|#
+17-09-2017 23:41:36 |user login|::1|1|successfully logged out|#

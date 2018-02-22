@@ -1,0 +1,12 @@
+22-02-2018 08:30:17 |data update|add_user|::1|1||User record updated successfully|#
+22-02-2018 08:32:51 |user login|::1|1|successfully logged out|#
+22-02-2018 08:32:57 |user login|login|::1|1|successfully logged|#
+22-02-2018 08:36:52 |user login|::1|1|successfully logged out|#
+22-02-2018 08:37:15 |user login|::1||successfully logged out|#
+22-02-2018 08:37:22 |user login|login|::1|1|successfully logged|#
+22-02-2018 08:38:26 |list data|list_single|1|Where Status =  'inactive'  |listed successfully|#
+22-02-2018 08:39:11 |list data|list_single|1|Where date_stamp between '2016-02-22 00:00:00' and '2016-02-22 23:59:00'  and Status =  'inactive'  |listed successfully|#
+22-02-2018 08:39:15 |list data|list_single|1|Where date_stamp between '2016-02-22 00:00:00' and '2016-02-22 23:59:00'  and Status =  'active'  |listed successfully|#
+22-02-2018 08:39:35 |data update|add_single|::1|1|1|updated successfully|#
+22-02-2018 08:41:08 |delete data|list_single|::1|1|24|deleted successfully|#
+22-02-2018 08:41:33 |user login|::1|1|successfully logged out|#

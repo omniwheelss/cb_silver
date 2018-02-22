@@ -1,0 +1,20 @@
+Codebase_Silver 1.2 enhancements and bug-fixes:
+
+1.  Serial numbers added in the list page. 
+2.	list_sample - Condition added in line 163 - Added extra space before to avoid excel error while downloading - Commented now
+2.  list_controller - changed switch statement instead of if/else statement
+3.  common_service.php - changed below line since it produced error in production (do_select_db, check_expiry, delete_data_db )
+		if ($stmt->rowCount() == 0 || empty($stmt->rowCount())) {
+		instead of above 
+		if ($stmt->rowCount()) {
+4.  list_sample - Added condition for update the submit value for edit page
+5.  common_controller.php - Added condition to check the given file in the url exist or not 
+6.  add_controller.php, list_controller.php - added condition if any new controls in not defined yet will direct to 404 page
+7.  helper_controller.php - added message pane for seo_array_func in header.php
+8.  helper_controller.php - changed option name for select option as default "select below values" 
+9.  common_controller.php - changes switch statement instead of if statement in array_func and added where condition
+10.	list_sample.php - assign the value when array doesn't have any value
+11. common_controller.php - changed filename check applied except profile,login,logout  and home
+12. header.php - added additional link such as Edit, Delete, Login & Renewal
+
+

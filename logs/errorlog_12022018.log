@@ -1,0 +1,26 @@
+12-02-2018 07:28:44 |select query|add_user|::1|1|SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause'
+---------------------------------------||#
+12-02-2018 08:21:07 |select query|add_single|::1|1|SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+---------------------------------------||#
+12-02-2018 08:22:08 |select query|add_single|::1|1|SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+---------------------------------------||#
+12-02-2018 08:25:17 |select query|add_single|::1|1|SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+---------------------------------------||#
+12-02-2018 08:25:19 |select query|add_single|::1|1|SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+---------------------------------------||#
+12-02-2018 08:25:36 |select query|add_single|::1|1|SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+---------------------------------------||#
+12-02-2018 08:25:53 |select query|add_single|::1|1|SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+---------------------------------------||#
+12-02-2018 08:25:54 |select query|add_single|::1|1|SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+---------------------------------------||#
+12-02-2018 08:25:54 |select query|add_single|::1|1|SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+---------------------------------------||#
+12-02-2018 08:25:54 |select query|add_single|::1|1|SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+---------------------------------------||#
+12-02-2018 08:26:06 |select query|add_single|::1|1|SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+---------------------------------------||#
+12-02-2018 08:26:11 |select query|add_single|::1|1|SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+---------------------------------------||#
+12-02-2018 08:26:21 |select query|add_single|::1|1|SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+---------------------------------------||#

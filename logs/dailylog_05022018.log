@@ -1,0 +1,11 @@
+05-02-2018 09:13:26 |user login|login|::1||emailid/password wrong|#
+05-02-2018 09:13:32 |user login|login|::1||emailid/password wrong|#
+05-02-2018 10:01:27 |user login|login|::1|1|successfully logged|#
+05-02-2018 12:29:43 |user login|login|::1|1|successfully logged|#
+05-02-2018 12:45:44 |list data|list_sample|1|Where Date_Name between '2018-02-05 00:00:00' and '2018-02-05 12:45:00' and Radio_Name =  'Male' and Select_Name =  '1'  |listed successfully|#
+05-02-2018 13:03:32 |list data|list_sample|1|Where Date_Name between '2018-02-05 00:00:00' and '2018-02-05 13:03:00' and Select_Name =  '2'  |listed successfully|#
+05-02-2018 13:03:48 |list data|list_sample|1|Where Date_Name between '2016-02-05 00:00:00' and '2018-02-05 13:03:00' and Select_Name =  '2'  |listed successfully|#
+05-02-2018 13:03:52 |list data|list_sample|1|Where Date_Name between '2016-02-05 00:00:00' and '2018-02-05 13:03:00' and Select_Name =  '1'  |listed successfully|#
+05-02-2018 13:08:27 |delete data|list_sample|::1|1|52|deleted successfully|#
+05-02-2018 13:21:58 |user login|login|127.0.0.1|1|successfully logged|#
+05-02-2018 17:45:17 |user login|::1|1|successfully logged out|#

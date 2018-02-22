@@ -1,0 +1,6 @@
+04-02-2018 18:34:05 |user login|login|::1|||user login exception|SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+---------------------------------------||#
+04-02-2018 18:35:11 |list data|list_acl_screen|1|Where |SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by id asc' at line 1
+---------------------------------------||#
+04-02-2018 18:35:12 |list data|list_acl_screen|1|Where |SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by id asc' at line 1
+---------------------------------------||#

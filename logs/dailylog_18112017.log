@@ -1,0 +1,15 @@
+18-11-2017 20:39:13 |user login|login|::1||emailid/password wrong|#
+18-11-2017 20:39:20 |user login|login|::1||Oops!!! your account was locked|#
+18-11-2017 21:04:32 |user login|login|::1||Oops!!! your account was expired|#
+18-11-2017 21:05:19 |user login|login|::1||Oops!!! your account was expired|#
+18-11-2017 21:05:24 |user login|login|::1||Oops!!! your account was expired|#
+18-11-2017 21:06:47 |user login|login|::1||Oops!!! your account was expired|#
+18-11-2017 21:07:54 |user login|login|::1||Oops!!! your account was expired|#
+18-11-2017 21:08:54 |user login|login|::1||Oops!!! your account was expired|#
+18-11-2017 21:09:38 |user login|login|::1||Oops!!! your account was expired|#
+18-11-2017 21:09:49 |user login|login|::1||Oops!!! your account was expired|#
+18-11-2017 21:10:49 |user login|login|::1||Oops!!! your account was expired|#
+18-11-2017 21:11:14 |user login|login|::1|1|successfully logged|#
+18-11-2017 21:15:44 |user login|::1|1|successfully logged out|#
+18-11-2017 21:33:38 |user login|login|::1|1|successfully logged|#
+18-11-2017 21:34:05 |user login|::1|1|successfully logged out|#

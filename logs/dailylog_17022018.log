@@ -1,0 +1,93 @@
+17-02-2018 08:49:55 |user login|login|::1|1|successfully logged|#
+17-02-2018 10:00:33 |list data|list_sample|1|Where Date_Name between '2018-02-17 00:00:00' and '2018-02-17 10:00:00' and Select_Name =  '2'  |listed successfully|#
+17-02-2018 10:18:15 |list data|list_single|1|Where  Status =  'inactive'  |listed successfully|#
+17-02-2018 10:18:18 |list data|list_single|1|Where  Status =  'active'  |listed successfully|#
+17-02-2018 10:18:21 |list data|list_single|1|Where  Status =  'panding'  |listed successfully|#
+17-02-2018 10:18:25 |list data|list_single|1|Where  Status =  'inactive'  |listed successfully|#
+17-02-2018 10:27:45 |list data|list_single|1|Where  Status =  'pending'  |listed successfully|#
+17-02-2018 10:27:47 |list data|list_single|1|Where  Status =  'active'  |listed successfully|#
+17-02-2018 10:29:29 |list data|list_single|1|Where  Status =  'active'  |listed successfully|#
+17-02-2018 10:32:16 |list data|list_single|1|Where  Status =  'active'  |listed successfully|#
+17-02-2018 10:33:13 |list data|list_single|1|Where  Status =  'active'  |listed successfully|#
+17-02-2018 10:33:16 |list data|list_single|1|Where  Status =  'active'  |listed successfully|#
+17-02-2018 10:33:19 |list data|list_single|1|Where  Status =  'active'  |listed successfully|#
+17-02-2018 10:35:21 |list data|list_single|1|Where  Status =  'active'  |listed successfully|#
+17-02-2018 10:35:40 |list data|list_single|1|Where  Status =  'inactive'  |listed successfully|#
+17-02-2018 11:14:12 |list data|list_single|1|Where  Status =  'active'  |listed successfully|#
+17-02-2018 11:16:58 |list data|list_single|1|Where  Status =  'active'  |listed successfully|#
+17-02-2018 11:17:03 |list data|list_single|1|Where  Status =  'inactive'  |listed successfully|#
+17-02-2018 11:17:14 |list data|list_single|1|||#
+17-02-2018 11:17:21 |list data|list_single|1|Where  Status =  'inactive'  |listed successfully|#
+17-02-2018 11:18:09 |list data|list_single|1|Where  Status =  'inactive'  |listed successfully|#
+17-02-2018 11:18:30 |list data|list_single|1|Where  Status =  'inactive'  |listed successfully|#
+17-02-2018 11:24:10 |list data|list_single|1||listed successfully|#
+17-02-2018 11:24:24 |list data|list_single|1||listed successfully|#
+17-02-2018 11:24:32 |list data|list_single|1||listed successfully|#
+17-02-2018 11:37:33 |list data|list_single|1|Where date_stamp between '1970-01-01 05:30:00' and '1970-01-01 05:30:00'|listed successfully|#
+17-02-2018 11:39:06 |list data|list_single|1|Where date_stamp between '2018-02-17 00:00:00' and '2018-02-17 11:37:00'|listed successfully|#
+17-02-2018 11:39:13 |list data|list_single|1|Where date_stamp between '1970-01-01 05:30:00' and '1970-01-01 05:30:00'|listed successfully|#
+17-02-2018 11:39:45 |list data|list_single|1||listed successfully|#
+17-02-2018 11:39:51 |list data|list_single|1||listed successfully|#
+17-02-2018 11:40:57 |list data|list_single|1||listed successfully|#
+17-02-2018 11:41:41 |list data|list_single|1||listed successfully|#
+17-02-2018 11:41:43 |list data|list_single|1||listed successfully|#
+17-02-2018 11:41:44 |list data|list_single|1||listed successfully|#
+17-02-2018 11:41:58 |list data|list_single|1|Where date_stamp between '2018-02-17 00:00:00' and '2018-02-17 23:59:00'|listed successfully|#
+17-02-2018 11:42:39 |list data|list_single|1|Where date_stamp between '2016-02-22 00:00:00' and '2016-02-22 23:59:00'|listed successfully|#
+17-02-2018 11:42:48 |list data|list_single|1|Where date_stamp between '2016-02-22 00:00:00' and '2016-02-23 23:59:00'|listed successfully|#
+17-02-2018 11:44:21 |list data|list_single|1|Where date_stamp between '2016-02-22 00:00:00' and '2016-02-23 23:59:00' and Status =  'pending'|listed successfully|#
+17-02-2018 11:44:28 |list data|list_single|1|Where date_stamp between '2016-02-22 00:00:00' and '2016-02-23 23:59:00'|listed successfully|#
+17-02-2018 11:44:33 |list data|list_single|1|Where date_stamp between '2016-02-22 00:00:00' and '2016-02-23 23:59:00' and Status =  'active'|listed successfully|#
+17-02-2018 11:44:46 |list data|list_single|1|Where date_stamp between '2016-02-22 00:00:00' and '2016-02-23 23:59:00' and Status =  'active'|listed successfully|#
+17-02-2018 11:46:35 |list data|list_single|1||listed successfully|#
+17-02-2018 11:49:21 |list data|list_single|1|Where    Status =  'active'|listed successfully|#
+17-02-2018 11:49:30 |list data|list_single|1|Where    Status =  'active'|listed successfully|#
+17-02-2018 15:00:17 |list data|list_single|1|Where date_stamp between '2016-02-22 00:00:00' and '2016-02-22 23:59:00' and Status =  'active'   |listed successfully|#
+17-02-2018 15:00:30 |list data|list_single|1|Where date_stamp between '2016-02-22 00:00:00' and '2016-02-22 23:59:00' and Status =  'active'   |listed successfully|#
+17-02-2018 15:01:32 |list data|list_single|1|Where date_stamp between '2016-02-22 00:00:00' and '2016-02-22 23:59:00'  and Status =  'active'  |listed successfully|#
+17-02-2018 15:01:37 |list data|list_single|1|Where Status =  'active'  |listed successfully|#
+17-02-2018 15:01:43 |list data|list_single|1|Where Status =  'inactive'  |listed successfully|#
+17-02-2018 15:01:45 |list data|list_single|1||listed successfully|#
+17-02-2018 15:01:54 |list data|list_single|1|Where Status =  'inactive'  |listed successfully|#
+17-02-2018 15:01:58 |list data|list_single|1||listed successfully|#
+17-02-2018 15:02:00 |list data|list_single|1|Where Status =  'pending'  |listed successfully|#
+17-02-2018 15:02:39 |list data|list_single|1||listed successfully|#
+17-02-2018 15:02:45 |list data|list_single|1||listed successfully|#
+17-02-2018 15:23:09 |list data|list_single|1|Where Status =  'inactive'  |listed successfully|#
+17-02-2018 15:23:17 |list data|list_single|1|Where Status =  'active'  |listed successfully|#
+17-02-2018 15:23:25 |list data|list_single|1|Where Status =  'active'  and date_stamp between '2016-02-22 00:00:00' and '2016-02-22 23:59:00'  |listed successfully|#
+17-02-2018 15:23:28 |list data|list_single|1|Where Status =  'inactive'  and date_stamp between '2016-02-22 00:00:00' and '2016-02-22 23:59:00'  |listed successfully|#
+17-02-2018 15:26:27 |list data|list_single|1|Where Status =  'inactive'  and date_stamp between '2016-02-22 00:00:00' and '2016-02-22 23:59:00'  |listed successfully|#
+17-02-2018 15:26:30 |list data|list_single|1|Where Status =  'active'  and date_stamp between '2016-02-22 00:00:00' and '2016-02-22 23:59:00'  |listed successfully|#
+17-02-2018 15:26:32 |list data|list_single|1|Where Status =  'pending'  and date_stamp between '2016-02-22 00:00:00' and '2016-02-22 23:59:00'  |listed successfully|#
+17-02-2018 15:26:49 |list data|list_single|1|Where Status =  'pending'  and date_stamp between '2016-02-22 00:00:00' and '2016-02-22 23:59:00'  |listed successfully|#
+17-02-2018 15:27:20 |list data|list_single|1|Where date_stamp between '2016-02-22 00:00:00' and '2016-02-22 23:59:00'  and Status =  'pending'  |listed successfully|#
+17-02-2018 15:27:25 |list data|list_single|1|Where date_stamp between '2016-02-22 00:00:00' and '2016-02-22 23:59:00'  and Status =  'pending'  |listed successfully|#
+17-02-2018 15:27:27 |list data|list_single|1|Where date_stamp between '2016-02-22 00:00:00' and '2016-02-22 23:59:00'  and Status =  'active'  |listed successfully|#
+17-02-2018 15:27:31 |list data|list_single|1|Where Status =  'active'  |listed successfully|#
+17-02-2018 15:27:35 |list data|list_single|1||listed successfully|#
+17-02-2018 15:27:39 |list data|list_single|1|Where date_stamp between '2016-02-22 00:00:00' and '2016-02-22 23:59:00'  |listed successfully|#
+17-02-2018 15:27:43 |list data|list_single|1|Where date_stamp between '2016-02-22 00:00:00' and '2016-02-22 23:59:00'  |listed successfully|#
+17-02-2018 15:27:46 |list data|list_single|1|Where date_stamp between '2016-02-22 00:00:00' and '2016-02-22 23:59:00'  and Status =  'active'  |listed successfully|#
+17-02-2018 15:27:48 |list data|list_single|1|Where date_stamp between '2016-02-22 00:00:00' and '2016-02-22 23:59:00'  and Status =  'inactive'  |listed successfully|#
+17-02-2018 15:27:51 |list data|list_single|1|Where date_stamp between '2016-02-22 00:00:00' and '2016-02-22 23:59:00'  and Status =  'pending'  |listed successfully|#
+17-02-2018 15:27:53 |list data|list_single|1|Where date_stamp between '2016-02-22 00:00:00' and '2016-02-22 23:59:00'  and Status =  'inactive'  |listed successfully|#
+17-02-2018 15:27:55 |list data|list_single|1|Where date_stamp between '2016-02-22 00:00:00' and '2016-02-22 23:59:00'  |listed successfully|#
+17-02-2018 15:28:04 |list data|list_single|1|Where date_stamp between '2016-02-22 00:00:00' and '2016-02-22 23:59:00'  |listed successfully|#
+17-02-2018 15:30:26 |list data|list_single|1|Where date_stamp between '2016-02-22 00:00:00' and '2016-02-22 23:59:00'  |listed successfully|#
+17-02-2018 15:30:39 |list data|list_single|1|Where date_stamp between '2016-02-22 00:00:00' and '2016-02-22 23:59:00'  |listed successfully|#
+17-02-2018 15:31:11 |list data|list_single|1|Where date_stamp between '2016-02-22 00:00:00' and '2016-02-22 23:59:00'  |listed successfully|#
+17-02-2018 15:31:21 |list data|list_single|1|Where date_stamp between '2016-02-22 00:00:00' and '2016-02-22 23:59:00'  |listed successfully|#
+17-02-2018 15:46:56 |user login|login|::1|1|successfully logged|#
+17-02-2018 15:56:41 |list data|list_single|1|Where Status =  'active'  |listed successfully|#
+17-02-2018 15:56:47 |list data|list_single|1|Where Status =  'pending'  |listed successfully|#
+17-02-2018 15:56:52 |list data|list_single|1|Where Status =  'active'  |listed successfully|#
+17-02-2018 15:57:07 |list data|list_single|1|Where Status =  'inactive'  |listed successfully|#
+17-02-2018 15:57:14 |list data|list_single|1|Where Status =  'active'  |listed successfully|#
+17-02-2018 15:57:45 |list data|list_single|1|Where Status =  'pending'  |listed successfully|#
+17-02-2018 15:57:53 |list data|list_single|1|Where Status =  'active'  |listed successfully|#
+17-02-2018 15:58:03 |list data|list_single|1|Where Status =  'pending'  |listed successfully|#
+17-02-2018 15:58:14 |list data|list_single|1|Where Status =  'inactive'  |listed successfully|#
+17-02-2018 22:05:52 |list data|list_single|1|Where Status =  'active'  |listed successfully|#
+17-02-2018 22:05:56 |list data|list_single|1|Where Status =  'pending'  |listed successfully|#
+17-02-2018 22:06:00 |list data|list_single|1|Where Status =  'inactive'  |listed successfully|#

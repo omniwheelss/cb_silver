@@ -1,0 +1,12 @@
+05-02-2018 12:47:39 |list data|list_user|1|Where date_stamp between '2018-02-05 00:00:00' and '2018-02-05 12:47:00' and Radio_Name =  'Male' and Select_Name =  '1'  |SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Radio_Name' in 'where clause'
+---------------------------------------||#
+05-02-2018 12:47:39 |list data|list_user|1|Where date_stamp between '2018-02-05 00:00:00' and '2018-02-05 12:47:00' and Radio_Name =  'Male' and Select_Name =  '1'  |SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Radio_Name' in 'where clause'
+---------------------------------------||#
+05-02-2018 12:47:52 |list data|list_user|1|Where  Radio_Name =  'Male'  |SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Radio_Name' in 'where clause'
+---------------------------------------||#
+05-02-2018 12:47:52 |list data|list_user|1|Where  Radio_Name =  'Male'  |SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Radio_Name' in 'where clause'
+---------------------------------------||#
+05-02-2018 12:48:43 |list data|list_user|1|Where  Radio_Name =  'Male'  |SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Radio_Name' in 'where clause'
+---------------------------------------||#
+05-02-2018 12:48:43 |list data|list_user|1|Where  Radio_Name =  'Male'  |SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Radio_Name' in 'where clause'
+---------------------------------------||#

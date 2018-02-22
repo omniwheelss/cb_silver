@@ -1,0 +1,48 @@
+07-10-2017 13:48:12 |user login|login|::1|||user login exception|SQLSTATE[HY000]: General error: 1356 View 'agape_vts.vw_users' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them
+---------------------------------------||#
+07-10-2017 13:48:19 |user login|login|::1|||user login exception|SQLSTATE[HY000]: General error: 1356 View 'agape_vts.vw_users' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them
+---------------------------------------||#
+07-10-2017 13:48:24 |user login|login|::1|||user login exception|SQLSTATE[HY000]: General error: 1356 View 'agape_vts.vw_users' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them
+---------------------------------------||#
+07-10-2017 13:48:31 |user login|login|::1|||user login exception|SQLSTATE[HY000]: General error: 1356 View 'agape_vts.vw_users' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them
+---------------------------------------||#
+07-10-2017 13:48:37 |user login|login|::1|||user login exception|SQLSTATE[HY000]: General error: 1356 View 'agape_vts.vw_users' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them
+---------------------------------------||#
+07-10-2017 14:00:06 |user login|login|::1|||user login exception|SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+---------------------------------------||#
+07-10-2017 14:00:10 |user login|login|::1|||user login exception|SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+---------------------------------------||#
+07-10-2017 14:00:12 |user login|login|::1|||user login exception|SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+---------------------------------------||#
+07-10-2017 14:00:13 |user login|login|::1|||user login exception|SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+---------------------------------------||#
+07-10-2017 14:00:13 |user login|login|::1|||user login exception|SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+---------------------------------------||#
+07-10-2017 14:00:39 |user login|login|::1|||user login exception|SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+---------------------------------------||#
+07-10-2017 14:01:04 |user login|login|::1|||user login exception|SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+---------------------------------------||#
+07-10-2017 14:01:05 |user login|login|::1|||user login exception|SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+---------------------------------------||#
+07-10-2017 14:01:10 |user login|login|::1|||user login exception|SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+---------------------------------------||#
+07-10-2017 14:01:21 |user login|login|::1|||user login exception|SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+---------------------------------------||#
+07-10-2017 14:01:33 |user login|login|::1|||user login exception|SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+---------------------------------------||#
+07-10-2017 14:01:35 |user login|login|::1|||user login exception|SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+---------------------------------------||#
+07-10-2017 14:01:35 |user login|login|::1|||user login exception|SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+---------------------------------------||#
+07-10-2017 14:01:35 |user login|login|::1|||user login exception|SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+---------------------------------------||#
+07-10-2017 14:01:50 |user login|login|::1|||user login exception|SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+---------------------------------------||#
+07-10-2017 14:02:06 |user login|login|::1|||user login exception|SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email' in 'where clause'
+---------------------------------------||#
+07-10-2017 14:02:12 |user login|login|::1|||user login exception|SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email' in 'where clause'
+---------------------------------------||#
+07-10-2017 14:02:17 |user login|login|::1|||user login exception|SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email' in 'where clause'
+---------------------------------------||#
+07-10-2017 14:02:20 |user login|login|::1|||user login exception|SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email' in 'where clause'
+---------------------------------------||#
